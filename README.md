@@ -1,4 +1,4 @@
-# Cypress-WebAutomationTesting-FromZeroToHero
+# Cypress-WebAPITesting-FromZeroToHero
  
 Web UI Automation testing framework is developed by Visual Studio Code and Cypress.
 

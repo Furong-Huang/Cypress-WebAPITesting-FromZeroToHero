@@ -11,6 +11,7 @@ Install the Visual Studio Code, NPM and Node.js packages.
 Open the project folder by using Visual Studio Code IDE.
 
 Due to not uploading node_modules in github, so Run command to install node_modules firstly : npm install --save-dev @angular-devkit/build-angular
+
 Then Run command to compile the project: ng serve 
 
 Open browser and type URL: localhost:4200, then view the opensouce website

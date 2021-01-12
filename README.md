@@ -1,6 +1,6 @@
 # Cypress-WebAPITesting-FromZeroToHero
  
-Web UI Automation testing framework is developed by Visual Studio Code and Cypress.
+Web UI Automation testing framework is developed by Visual Studio Code and Cypress based on one of Angular applications.
 
 Configure the project:
 
@@ -10,7 +10,8 @@ Install the Visual Studio Code, NPM and Node.js packages.
 
 Open the project folder by using Visual Studio Code IDE.
 
-Run command: ng serve in order to compile the project
+Due to not uploading node_modules in github, so Run command to install node_modules firstly : npm install --save-dev @angular-devkit/build-angular
+Then Run command to compile the project: ng serve 
 
 Open browser and type URL: localhost:4200, then view the opensouce website
 
